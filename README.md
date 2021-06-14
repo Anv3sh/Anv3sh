@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Anvesh's github stats](https://github-readme-stats.vercel.app/api?username=Anv3sh)](https://github.com/Anv3sh/github-readme-stats)
 
 ## Connect with me:
-<img src="https://user-images.githubusercontent.com/51405870/121837779-22087c00-ccf4-11eb-87c4-c5271cbd52e4.png" url="https://www.linkedin.com/in/anvesh-mishra-8020b416a" width="60">  <img src="https://user-images.githubusercontent.com/51405870/121838097-af4bd080-ccf4-11eb-83ee-c936de4a332c.png" url="https://www.instagram.com/anv3shhh" width="60">
+<img src="https://user-images.githubusercontent.com/51405870/121837779-22087c00-ccf4-11eb-87c4-c5271cbd52e4.png" href="https://www.linkedin.com/in/anvesh-mishra-8020b416a" width="60">  <img src="https://user-images.githubusercontent.com/51405870/121838097-af4bd080-ccf4-11eb-83ee-c936de4a332c.png" href="https://www.instagram.com/anv3shhh" width="60">
