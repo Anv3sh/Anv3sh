@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there I'am Anvesh Mishra.
+# Hi there I'am Anvesh Mishra.👋
 * 🔭A Python freak.
 * 🌱Currently working on full stack web dev.
 * 😄Pronouns: he/him
