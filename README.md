@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there I'am Anvesh Mishra.
-    > A Python freak
-    > Currently working on full stack web dev
-    > Pronouns: he/him
-    >Fun fact: I like watching anime
+    * A Python freak
+    * Currently working on full stack web dev
+    * Pronouns: he/him
+    * Fun fact: I like watching anime
     
     
 # Languages and Tools:
