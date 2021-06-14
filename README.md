@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 [![linkedin](https://user-images.githubusercontent.com/51405870/121940858-2cfef300-cd6c-11eb-9ff7-586eb4c90071.png)
-]("https://www.linkedin.com/in/anvesh-mishra-8020b416a")[![insta](https://user-images.githubusercontent.com/51405870/121941164-8f57f380-cd6c-11eb-81c4-b03c902aa25a.png)
+]("https://www.linkedin.com/in/anvesh-mishra-8020b416a")[![insta](https://user-images.githubusercontent.com/51405870/121941283-b1517600-cd6c-11eb-8397-8b036a900938.png)
 ]("https://www.instagram.com/anv3shhh")
