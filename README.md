@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there I'am Anvesh Mishra.👋
 * 🔭A Python freak.
-* 🌱Currently working on full stack web dev.
+* 🌱Currently learning backend with Django
 * 😄Pronouns: he/him
 * ⚡Fun fact: I like watching anime.
     
