@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there I'am Anvesh.👋
 * 🔭A Python freak.
 * 🌱Backend Dev(Python/Go).
-* 🍜Contributor at Django.
+* 🍜Contributor @Django.
 * 🎈Exploring DevOps
 * 😄Pronouns: he/him
 * ⚡Fun fact: I like watching anime.
