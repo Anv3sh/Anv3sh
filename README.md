@@ -1,10 +1,7 @@
 # Hi there I'am Anvesh.👋
 * 🔭A Python freak.
-* 🌱Backend Dev(Python/Go).
+* 🌱Backend Engineer(Python/Go).
 * 🍜Contributor @Django.
-* 🎈Exploring DevOps
-* 😄Pronouns: he/him
-* ⚡Fun fact: I like watching anime.
 
 [![Anvesh's github stats](https://github-readme-stats.vercel.app/api?username=Anv3sh)](https://github.com/Anv3sh/github-readme-stats)
 
